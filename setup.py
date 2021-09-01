@@ -4,7 +4,6 @@ setup(
     name='hwcsc510',
     version='0.1',
     description='Module fow HW2 CSC-510',
-    author='Usman Khan',
     author_email='ukhan3@ncsu.edu',
     packages=['hwcsc510'],
       long_description="""\
