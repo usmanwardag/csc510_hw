@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import pandas as pd
-dataSet = pd.read_csv('starbucks-menu-nutrition-drinks.csv')    
+dataSet = pd.read_csv('csc510_hw/Data/starbucks-menu-nutrition-drinks.csv')    
 
 #Finding drink with lowest calorie
 def find_low_calorie_drink():
