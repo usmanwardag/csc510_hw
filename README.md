@@ -1,1 +1,1 @@
-# csc510_hw
+# CSC510 Homework 2B
