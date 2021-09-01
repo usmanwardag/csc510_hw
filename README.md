@@ -5,4 +5,3 @@
 [![Build Status](https://app.travis-ci.com/usmanwardag/csc510_hw.svg?branch=main)](https://app.travis-ci.com/usmanwardag/csc510_hw)
 [![GitHub issues](https://img.shields.io/github/issues/usmanwardag/csc510_hw)](https://github.com/usmanwardag/csc510_hw/issues)
 [![GitHub stars](https://img.shields.io/github/stars/usmanwardag/csc510_hw)](https://github.com/usmanwardag/csc510_hw/stargazers)
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)][![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=usmanwardag/csc510_hw)
