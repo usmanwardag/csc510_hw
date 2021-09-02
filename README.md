@@ -51,7 +51,7 @@ The repo contains a simple python script which reads our dataset and based on it
 We require Python (Version 3 and above) to be installed locally. Click [here](https://www.python.org/downloads/) to install depending on your Operating System. 
 
 ### Installation
-We have our requirements mentioned in [requirements.txt]
+We have our requirements mentioned in [requirements.txt](https://github.com/usmanwardag/csc510_hw/blob/main/requirements.txt)
   ```sh
   pip install -r requirements.txt
   ```
