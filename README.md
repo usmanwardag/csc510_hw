@@ -55,7 +55,25 @@ We have our requirements mentioned in [requirements.txt](https://github.com/usma
   ```sh
   pip install -r requirements.txt
   ```
+<!-- CONTRIBUTING -->
+## Contributing
 
+We would be happy to receive contributions! If you'd like to, please go through our [CONTRIBUTING.md](https://github.com/usmanwardag/csc510_hw/blob/main/CONTRIBUTING.md)
 
+<!-- LICENSE -->
+## License
 
+Distributed under the MIT License. See [LICENSE](https://github.com/usmanwardag/csc510_hw/blob/main/LICENSE) for more information.
 
+<!-- CONTACT -->
+## Contact
+
+* [Kriti Khullar](https://github.com/kriti0207)
+* [Muskan Gupta](https://github.com/muskan7828)
+* [Suneha Bose](https://github.com/sbosenc)
+* [Urvashi Kar](https://github.com/Urvashi74)
+* [Usman Mahmood Khan](https://github.com/usmanwardag)
+
+## Acknowledgments
+
+We thank our Professor of course CSC510 - Professor Dr. Timothy Menzies for giving us this exciting way of exploring how we can go about building a good repository.
