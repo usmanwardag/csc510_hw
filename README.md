@@ -12,18 +12,48 @@
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/usmanwardag/csc510_hw)](https://github.com/usmanwardag/csc510_hw/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub stars](https://img.shields.io/github/stars/usmanwardag/csc510_hw)](https://github.com/usmanwardag/csc510_hw/stargazers)
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-We picked a [Kaggle](https://www.kaggle.com/starbucks/starbucks-menu) dataset of Starbucks nutrition drinks for this Repo and we show the drinks that fall into the following three categories:
-* Low Calorie Drink
-* High Carb Drink
-* High Protein Drink
+This is our take on a "good" Github Repo. We picked a [Kaggle](https://www.kaggle.com/starbucks/starbucks-menu) dataset of Starbucks nutrition drinks for this Repo and we show the drinks that fall into the following three categories:
+* Lowest Calorie Drink
+* Highest Carb Drink
+* Highest Protein Drink
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
+The repo contains a simple python script which reads our dataset and based on it we perform basic functions to find specific drinks.
 
+### Prerequisites
+
+We require Python to be installed locally. Click [here](https://www.python.org/downloads/) to install depending on your Operating System. We also use Pandas library which can be installed using this command : 
+* Pandas
+  ```sh
+  pip install pandas
+  ```
 
 
 
