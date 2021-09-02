@@ -1,4 +1,4 @@
-# CSC510 Homework 2B
+# CSC510 Homework
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
