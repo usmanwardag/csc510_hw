@@ -9,7 +9,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub license](https://img.shields.io/github/license/usmanwardag/csc510_hw)](https://github.com/usmanwardag/csc510_hw/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/usmanwardag/csc510_hw)](https://github.com/usmanwardag/csc510_hw/issues)
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/usmanwardag/csc510_hw)](https://github.com/usmanwardag/csc510_hw/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub stars](https://img.shields.io/github/stars/usmanwardag/csc510_hw)](https://github.com/usmanwardag/csc510_hw/stargazers)
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
