@@ -11,5 +11,5 @@
 [![GitHub issues](https://img.shields.io/github/issues/usmanwardag/csc510_hw)](https://github.com/usmanwardag/csc510_hw/issues)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/usmanwardag/csc510_hw)](https://github.com/usmanwardag/csc510_hw/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub stars](https://img.shields.io/github/stars/usmanwardag/csc510_hw)](https://github.com/usmanwardag/csc510_hw/stargazers)
-[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
