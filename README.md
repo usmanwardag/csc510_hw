@@ -1,6 +1,6 @@
 # CSC510 Homework
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/usmanwardag/csc510_hw)
 
 [![Build Status](https://app.travis-ci.com/usmanwardag/csc510_hw.svg?branch=main)](https://app.travis-ci.com/usmanwardag/csc510_hw)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5366280.svg)](https://doi.org/10.5281/zenodo.5366280)
