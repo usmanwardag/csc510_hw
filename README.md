@@ -1,6 +1,5 @@
 # CSC510 Homework
 
-
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 [![Build Status](https://app.travis-ci.com/usmanwardag/csc510_hw.svg?branch=main)](https://app.travis-ci.com/usmanwardag/csc510_hw)
@@ -12,5 +11,19 @@
 [![GitHub issues](https://img.shields.io/github/issues/usmanwardag/csc510_hw)](https://github.com/usmanwardag/csc510_hw/issues)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/usmanwardag/csc510_hw)](https://github.com/usmanwardag/csc510_hw/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub stars](https://img.shields.io/github/stars/usmanwardag/csc510_hw)](https://github.com/usmanwardag/csc510_hw/stargazers)
-![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+A random selection of Starbucks nutrition drinks was picked up for this Repo and we show the drinks that fall into the following three categories:
+* Low Calorie Drink
+* High Carb Drink
+* High Protein Drink
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+
+
+
 
