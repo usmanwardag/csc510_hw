@@ -24,12 +24,13 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+         <li><a href="#example">Example</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#acknowledgments">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -51,10 +52,23 @@ The repo contains a simple python script which reads our dataset and based on it
 We require Python (Version 3 and above) to be installed locally. Click [here](https://www.python.org/downloads/) to install depending on your Operating System. 
 
 ### Installation
-We have our requirements mentioned in [requirements.txt](https://github.com/usmanwardag/csc510_hw/blob/main/requirements.txt)
+First, install the Python packages listed in [requirements.txt](https://github.com/usmanwardag/csc510_hw/blob/main/requirements.txt)
   ```sh
   pip install -r requirements.txt
   ```
+  
+Next, install the `hwcsc510` package, and you are good to go.
+  ```sh
+  pip install -e .
+  ```
+
+### Example 
+To find the lowest calorie drink in the Starbucks menu:
+  ```sh
+  from hwcsc510.code import find_low_calorie_drink
+  print(find_low_calorie_drink())
+  ```
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -76,4 +90,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/usmanwardag/
 
 ## Acknowledgments
 
-We thank our Professor of course CSC510 - Professor Dr. Timothy Menzies for giving us this exciting way of exploring how we can go about building a good repository.
+We thank our Professor of course CSC510 - Professor Dr. [Timothy Menzies](http://menzies.us/) for giving us this exciting way of exploring how we can go about building a good repository.
