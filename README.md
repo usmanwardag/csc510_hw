@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A random selection of Starbucks nutrition drinks was picked up for this Repo and we show the drinks that fall into the following three categories:
+We picked a [Kaggle](https://www.kaggle.com/starbucks/starbucks-menu) dataset of Starbucks nutrition drinks for this Repo and we show the drinks that fall into the following three categories:
 * Low Calorie Drink
 * High Carb Drink
 * High Protein Drink
