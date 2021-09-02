@@ -23,10 +23,9 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -49,10 +48,14 @@ The repo contains a simple python script which reads our dataset and based on it
 
 ### Prerequisites
 
-We require Python (Version 3 and above) to be installed locally. Click [here](https://www.python.org/downloads/) to install depending on your Operating System. We also use Pandas library which can be installed using this command : 
+We require Python (Version 3 and above) to be installed locally. Click [here](https://www.python.org/downloads/) to install depending on your Operating System. 
+
+### Installation
+We have our requirements mentioned in [requirements.txt]
   ```sh
-  pip install pandas
+  pip install -r requirements.txt
   ```
+
 
 
 
