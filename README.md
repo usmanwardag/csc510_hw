@@ -50,7 +50,6 @@ The repo contains a simple python script which reads our dataset and based on it
 ### Prerequisites
 
 We require Python (Version 3 and above) to be installed locally. Click [here](https://www.python.org/downloads/) to install depending on your Operating System. We also use Pandas library which can be installed using this command : 
-* Pandas
   ```sh
   pip install pandas
   ```
